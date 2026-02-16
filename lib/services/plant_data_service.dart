@@ -160,8 +160,7 @@ class PlantDataService {
       price: 14.50,
       category: 'Plant medsin',
       images: [
-        'https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=500',
-        'https://images.unsplash.com/photo-1611125541861-e579d7e5e9e5?w=500',
+        'https://tse2.mm.bing.net/th/id/OIP.Hu4HpTI-HWW5kxM7R7qIWQHaDt?cb=defcache2&defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3',
       ],
       inStock: true,
       stockQuantity: 20,
@@ -421,7 +420,7 @@ class PlantDataService {
       description:
           'Kaktis raquèt ak fig endyen. Solid, rezistazn ak chalè epi pa bezwen anpil swen.',
       price: 18.50,
-      category: 'Kaktis', 
+      category: 'Kaktis',
       images: [
         'https://tse3.mm.bing.net/th/id/OIP.RA0HnEgIV-R-0d23pWNlpAHaJ4?cb=defcache2&defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3',
       ],
